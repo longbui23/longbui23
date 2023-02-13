@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @longbui23.
-- 👀 I’m interested in maps and charts.
-- 🌱 I’m currently learning how to procastinate laziness.
-- 💞️ I’m looking to collaborate on using R for data wrangling and visualization.
+- 👀 I’m interested in how numbers can tell stories (Numbers don't lie!)
+- 🌱 I’m currently learning how to gathering ups data collected to build up interesting insights and meaningful contributions.
+- 💞️ I’m looking to collaborate on using R, Python, and SQL for data wrangling and visualization.
 - 📫 How to reach me: builo@dickinson.edu
 
 <!---
