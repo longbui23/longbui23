@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Long. You can call me KD.</h1>
-<h3 align="center">Data and games are my priorities!!!</h3>
+<h3 align="center">Philosophia: Love for knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longbui23&label=Profile%20views&color=0e75b6&style=flat" alt="longbui23" /> </p>
 
