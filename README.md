@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=longbui23" alt="longbui23" /></a> </p>
 
-- 🔭 I’m currently working on [EDA Games Sales](https://github.com/longbui23/EDA-Game-Sales)
+- 🔭My Portfolio: [[Portfolio]](https://longbui23.github.io/long_bui_portfolio.github.io/)
 
 - 🌱 I’m currently learning **Data Analytics & Computer Science.**
 
