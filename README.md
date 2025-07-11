@@ -7,6 +7,7 @@
 
 ---
 
+- 🎓 I'm currently studying **Data Analytics & Computer Science** at Dickinson College.
 - 🔭 I’m working on personal full-stack projects and AI-powered workflows.
 - 🤖 Recently exploring how **AI is revolutionizing the insurance industry** (underwriting, automation, risk assessment).
 - 🛠️ I’ve built scalable **ETL pipelines, mobile apps**, and **data-driven dashboards**.
@@ -19,9 +20,15 @@
 
 <h3 align="left">🌐 Let's Connect</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/long-bui-239009228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.kaggle.com/buikhailong" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" /></a>
-  <a href="https://www.instagram.com/longgwww/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.linkedin.com/in/long-bui-239009228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/longbui23/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.instagram.com/longgwww/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
 
 ---
@@ -29,8 +36,12 @@
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PySpark-e34c26?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Flink-E6526F?style=flat&logo=apacheflink&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
