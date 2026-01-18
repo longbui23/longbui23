@@ -7,14 +7,7 @@
 
 ---
 
-- 🎓 I'm currently studying **Data Analytics & Computer Science** at Dickinson College.
-- 🔭 I’m working on personal full-stack projects and AI-powered workflows.
-- 🤖 Recently exploring how **AI is revolutionizing the insurance industry** (underwriting, automation, risk assessment).
-- 🛠️ I’ve built scalable **ETL pipelines, mobile apps**, and **data-driven dashboards**.
-- 💬 Ask me anything about **SQL, data engineering, or mobile development**.
-- 🌱 Currently learning **LLMs, Kafka streaming**, and **cloud-native architecture**.
-- 🚀 Check out my portfolio: [longbui23.github.io](https://longbui23.github.io/long_bui_portfolio.github.io/)
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/long-bui-239009228/)
+- 🎓 I'm currently a Data Engineer at @Instagram.
 
 ---
 
@@ -22,9 +15,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/long-bui-239009228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/longbui23/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://www.instagram.com/longgwww/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
